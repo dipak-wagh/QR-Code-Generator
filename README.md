@@ -1,6 +1,6 @@
 # QR-Code-Generator
 Title: QR Code Generator Web App
-
+Project Link:https://dipak-wagh.github.io/QR-Code-Generator/
 Description:
 
 Our QR Code Generator Web App is a user-friendly online tool that allows you to effortlessly create custom QR codes for various purposes. Built using HTML, CSS, and JavaScript, this web app offers a seamless and intuitive experience for generating QR codes. Whether you need QR codes for websites, text, or contact information, our app simplifies the process. Here are the key features:
