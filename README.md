@@ -1,6 +1,6 @@
 # QR-Code-Generator
 Title: QR Code Generator Web App
-Project Link:https: //dipak-wagh.github.io/QR-Code-Generator/
+Project Link:https://dipak-wagh.github.io/QR-Code-Generator/
 
 Description:
 
